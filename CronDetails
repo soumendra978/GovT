@@ -1,0 +1,3 @@
+Write crontab -e to create crontab;
+Press i to launch edit mode;
+Write the schedule command 30 13 * * 1-5 /usr/bin/python /path/to/file/<FILENAME>.py;
