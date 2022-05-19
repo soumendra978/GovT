@@ -7,4 +7,4 @@ Cron created, named :
 
 2. Database:
 Created table script attached : create.txt
-SQL statemet : query.txt
+SQL statemet : query.sql
