@@ -8,3 +8,4 @@ Cron created, named : CronDetails
 2. Database:
 Created table script attached : create.txt
 SQL statemet : Query.sql
+data model documet : data model 1
